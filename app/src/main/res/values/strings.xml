@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="pluspoint">+1Point</string>
+    <string name="penalty">Penalty!</string>
+    <string name="reset">Reset</string>
+    <string name="gteam">Guest Team</string>
+    <string name="hteam">Home Team</string>
+    <string name="zeroscore">0</string>
+</resources>
